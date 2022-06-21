@@ -127,7 +127,7 @@ Open CMD (Command Prompt) and type this command:
 
 * With this action, you can **see the properties** of the items in *your inventory* and in *your possession/on you*.  
 
-Once you pick up an item from the ground, you can not leave it back. When you change your weapon, the weapon in your hand goes to the inventory. You cannot carry more weapons than your total strength. That's why you should choose the weapons you buy very carefully. Otherwise, at some point, you may become unable to pick up a weapon from the ground.  
+    Once you pick up an item from the ground, you can not leave it back. When you change your weapon, the weapon in your hand goes to the inventory. You cannot carry more weapons than your total strength. That's why you should choose the weapons you buy very carefully. Otherwise, at some point, you may become unable to pick up a weapon from the ground.  
 
 ---
 ## Status
