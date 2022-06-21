@@ -95,7 +95,7 @@ Open CMD (Command Prompt) and type this command:
 
 #### Attack
 
-This action allows you to **attack** the *enemy*, *your teammate*, or *yourself*. You will get **different feedback** depending on the target.
+* This action allows you to **attack** the *enemy*, *your teammate*, or *yourself*. You will get **different feedback** depending on the target.
 
 #### SpecialAction
 
@@ -109,23 +109,23 @@ This action allows you to **attack** the *enemy*, *your teammate*, or *yourself*
 
 #### Examine
 
-With this action, you can **examine** the item on the *ground*, in *your hand* or in *your inventory*.
+* With this action, you can **examine** the item on the *ground*, in *your hand* or in *your inventory*.
 
 #### Pick
 
-With this action, you can **pick up** the item on the *ground*. If the item on the ground *is not in your possession or inventory*, it goes to *your inventory*.
+* With this action, you can **pick up** the item on the *ground*. If the item on the ground *is not in your possession or inventory*, it goes to *your inventory*.
 
 #### Wield
 
-With this action, you can **wield** the weapon in *your inventory*.
+* With this action, you can **wield** the weapon in *your inventory*.
 
 #### Wear
 
-With this action, you can **wear** the clothing in *your inventory*.
+* With this action, you can **wear** the clothing in *your inventory*.
 
 #### NEXT
 
-With this action, you can **see the properties** of the items in *your inventory* and in *your possession/on you*.  
+* With this action, you can **see the properties** of the items in *your inventory* and in *your possession/on you*.  
 
 Once you pick up an item from the ground, you can not leave it back. When you change your weapon, the weapon in your hand goes to the inventory. You cannot carry more weapons than your total strength. That's why you should choose the weapons you buy very carefully. Otherwise, at some point, you may become unable to pick up a weapon from the ground.  
 
