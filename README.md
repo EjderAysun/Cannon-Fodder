@@ -41,7 +41,6 @@ Open CMD (Command Prompt) and type this command:
 >java Library
 ```
 
----
 #### For Linux:
 ##### To install java and javac (if you don't have):
 If you don't have a java and javac version, download from here:  
@@ -90,6 +89,7 @@ Open CMD (Command Prompt) and type this command:
 >javac Library.java
 >java Library
 ```
+
 ---
 ## Features
 
@@ -127,13 +127,13 @@ With this action, you can **wear** the clothing in *your inventory*.
 
 With this action, you can **see the properties** of the items in *your inventory* and in *your possession/on you*.  
 
-Once you pick up an item from the ground, you can not leave it back. When you change your weapon, the weapon in your hand goes to the inventory. You cannot carry more weapons than your total strength. That's why you should choose the weapons you buy very carefully. Otherwise, at some point, you may become unable to pick up a weapon from the ground.
----
+Once you pick up an item from the ground, you can not leave it back. When you change your weapon, the weapon in your hand goes to the inventory. You cannot carry more weapons than your total strength. That's why you should choose the weapons you buy very carefully. Otherwise, at some point, you may become unable to pick up a weapon from the ground.  
 
+---
 ## Status
 With the exception of bug fixes (if any), development of this project is complete.
----
 
+---
 ## Inspiration
 Software Engineering 116 (SE 116) Project Instructions (Izmir University of Economics, 2022, SE 116 course, Spring semester project document)
   
@@ -144,7 +144,6 @@ The project conforms almost exactly to the document.
 Since the content of the SE 116 projects that will be given in the next periods may be similar to this document, I do not share the document publicly. If you need the document, send an e-mail with the reason to the following address: <ejdera344@gmail.com>
 
 ---
-
 ## Version
 **Version 1.0.0**  
 
