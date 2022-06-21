@@ -99,7 +99,7 @@ This action allows you to **attack** the *enemy*, *your teammate*, or *yourself*
 
 #### SpecialAction
 
-    This action allows you to use the **special action** of *your character's weapon*.  
+* This action allows you to use the **special action** of *your character's weapon*.  
 
     The special action of the sword is to immobilize enemies for 1 turn and level + 1 turn the character wielding the sword cannot take damage (the enemy can hit this character, but takes no damage. So if the enemy hits this character, it is to the player's advantage) and rendering it invulnerable.  
 
