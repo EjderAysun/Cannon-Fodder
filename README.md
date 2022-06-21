@@ -18,7 +18,7 @@
 ---
 ## General Info
 * This application has been made by **adhering to a document**.
-* This project is *simple* **text-based role-playing** game.
+* This project is *simple* **text-based role-playing** game and the first game I made with *Java*.
 * This project **only** works on the *console*.
 
 ---
