@@ -99,13 +99,13 @@ This action allows you to **attack** the *enemy*, *your teammate*, or *yourself*
 
 #### SpecialAction
 
-This action allows you to use the **special action** of *your character's weapon*.  
+    This action allows you to use the **special action** of *your character's weapon*.  
 
-The special action of the sword is to immobilize enemies for 1 turn and level + 1 turn the character wielding the sword cannot take damage (the enemy can hit this character, but takes no damage. So if the enemy hits this character, it is to the player's advantage) and rendering it invulnerable.  
+    The special action of the sword is to immobilize enemies for 1 turn and level + 1 turn the character wielding the sword cannot take damage (the enemy can hit this character, but takes no damage. So if the enemy hits this character, it is to the player's advantage) and rendering it invulnerable.  
 
-The wand's special action is to inflict a certain amount of health on the target warrior. The health given does not exceed the maximum health.
+    The wand's special action is to inflict a certain amount of health on the target warrior. The health given does not exceed the maximum health.
 
-The shield is passive. The shield has no special action.
+    The shield is passive. The shield has no special action.
 
 #### Examine
 
