@@ -1,7 +1,7 @@
 # CANNON FODDER
-**Text based game:** A text game or text-based game is an electronic game that uses a text-based user interface, that is, the user interface employs a set of encodable characters, such as ASCII, instead of bitmap or vector graphics.[[<1>]](https://en.wikipedia.org/wiki/Text-based_game)  
+**Text based game:** A text game or text-based game is an electronic game that uses a text-based user interface, that is, the user interface employs a set of encodable characters, such as ASCII, instead of bitmap or vector graphics.[[1]](https://en.wikipedia.org/wiki/Text-based_game)  
 
-**Role playing game:** A role-playing game (sometimes spelled roleplaying game; abbreviated RPG) is a game in which players assume the roles of characters in a fictional setting. Players take responsibility for acting out these roles within a narrative, either through literal acting or through a process of structured decision-making regarding character development. Actions taken within many games succeed or fail according to a formal system of rules and guidelines.[[<2>]](https://en.wikipedia.org/wiki/Role-playing_game)
+**Role playing game:** A role-playing game (sometimes spelled roleplaying game; abbreviated RPG) is a game in which players assume the roles of characters in a fictional setting. Players take responsibility for acting out these roles within a narrative, either through literal acting or through a process of structured decision-making regarding character development. Actions taken within many games succeed or fail according to a formal system of rules and guidelines.[[2]](https://en.wikipedia.org/wiki/Role-playing_game)
 
 ---
 ## Table of Contents
@@ -125,13 +125,13 @@ With this action, you can **wear** the clothing in *your inventory*.
 
 #### NEXT
 
-With this action, you can **see the properties** of the items in *your inventory* and in *your possession/on you*.
+With this action, you can **see the properties** of the items in *your inventory* and in *your possession/on you*.  
 
 Once you pick up an item from the ground, you can not leave it back. When you change your weapon, the weapon in your hand goes to the inventory. You cannot carry more weapons than your total strength. That's why you should choose the weapons you buy very carefully. Otherwise, at some point, you may become unable to pick up a weapon from the ground.
 ---
 
 ## Status
-* With the exception of bug fixes (if any), development of this project is complete.
+With the exception of bug fixes (if any), development of this project is complete.
 ---
 
 ## Inspiration
@@ -155,4 +155,4 @@ Ejder Aysun <ejdera344@gmail.com>
 ---
 ## Licence & Copyright
 © Ejder Aysun, Cannon Fodder 
-Licensed under the [MIT Licence](Licence).
+Licensed under the [MIT Licence](https://github.com/EjderAysun/Cannon-Fodder/blob/main/LICENCE).
