@@ -149,7 +149,7 @@ As a student of the Izmir University of Economics, I made this project in accord
   
 The project conforms almost exactly to the document.
   
-Since the content of the SE 116 projects that will be given in the next periods may be similar to this document, I do not share the document publicly. If you need the document, send an e-mail with the reason to the following address: <ejderaysunn@gmail.com>
+Since the content of the SE 116 projects that will be given in the next periods may be similar to this document, I can not share the document publicly. If you have an ethical responsibility based on this or a similar course, assignment, or task, please use this as an opinion only. If you have a question or need more information about the project, send an email to me: <ejderaysunn@gmail.com>
 
 ---
 ## Version
@@ -158,6 +158,9 @@ Since the content of the SE 116 projects that will be given in the next periods 
 ---
 ## Contributors
 Ejder Aysun <ejderaysunn@gmail.com>
+
+SE 116 Course Lecturer, [Prof. Yusuf Murat ERTEN](https://people.ieu.edu.tr/en/yusufmuraterten/main)  
+SE 116 Course Assistant, [Res. Asst. Hande AKA UYMAZ](https://people.ieu.edu.tr/en/handeaka/main)
 
 ---
 ## Licence & Copyright
